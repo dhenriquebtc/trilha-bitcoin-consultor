@@ -1,4 +1,4 @@
-# trilha-bitcoin-consultor
+# trilha-Bitcoin
 Trilha - Bitcoin/Cripto: segurança, autocustódia, herança, camadas e compliance.
 
 # Trilha — Bitcoin/Cripto
