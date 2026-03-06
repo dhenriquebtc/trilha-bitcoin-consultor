@@ -1,9 +1,9 @@
 # trilha-bitcoin-consultor
 Trilha - Bitcoin/Cripto: segurança, autocustódia, herança, camadas e compliance.
 
-# Trilha — Bitcoin/Cripto (Consultor)
+# Trilha — Bitcoin/Cripto
 
-Trilha estilo faculdade para me tornar consultor de Bitcoin/Cripto com foco em:
+Trilha Bitcoin/Cripto com foco em:
 - Segurança e autocustódia (PF/Família)
 - Herança/continuidade
 - Camadas Bitcoin (L1/LN/Liquid)
